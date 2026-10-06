@@ -36,41 +36,23 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Central Macatuba - Host API",
-    "url": "https://api.host.centralmacatuba.qzz.io",
-    "icon": "https://icons.duckduckgo.com/ip3/api.host.centralmacatuba.qzz.io.ico",
-    "slug": "api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Central Macatuba - Host NS1",
     "url": "https://ns1.host.centralmacatuba.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/ns1.host.centralmacatuba.qzz.io.ico",
     "slug": "ns1",
     "status": "down",
-    "uptime": "1.30%",
-    "uptimeDay": "1.30%",
-    "uptimeWeek": "1.30%",
-    "uptimeMonth": "1.30%",
-    "uptimeYear": "1.30%",
+    "uptime": "1.14%",
+    "uptimeDay": "1.14%",
+    "uptimeWeek": "1.14%",
+    "uptimeMonth": "1.14%",
+    "uptimeYear": "1.14%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-06": 15
+      "2026-10-06": 17
     }
   },
   {
@@ -79,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ns2.host.centralmacatuba.qzz.io.ico",
     "slug": "ns2",
     "status": "down",
-    "uptime": "1.35%",
-    "uptimeDay": "1.35%",
-    "uptimeWeek": "1.35%",
-    "uptimeMonth": "1.35%",
-    "uptimeYear": "1.35%",
+    "uptime": "1.18%",
+    "uptimeDay": "1.18%",
+    "uptimeWeek": "1.18%",
+    "uptimeMonth": "1.18%",
+    "uptimeYear": "1.18%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-06": 15
+      "2026-10-06": 17
     }
   }
 ]
