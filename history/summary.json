@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ns1.host.centralmacatuba.qzz.io.ico",
     "slug": "ns1",
     "status": "down",
-    "uptime": "37.10%",
-    "uptimeDay": "37.10%",
-    "uptimeWeek": "37.10%",
-    "uptimeMonth": "37.10%",
-    "uptimeYear": "37.10%",
+    "uptime": "30.62%",
+    "uptimeDay": "30.62%",
+    "uptimeWeek": "30.62%",
+    "uptimeMonth": "30.62%",
+    "uptimeYear": "30.62%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -79,16 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ns2.host.centralmacatuba.qzz.io.ico",
     "slug": "ns2",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "50.21%",
+    "uptimeDay": "50.21%",
+    "uptimeWeek": "50.21%",
+    "uptimeMonth": "50.21%",
+    "uptimeYear": "50.21%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-06": 0
+    }
   }
 ]
