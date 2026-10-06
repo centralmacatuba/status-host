@@ -9,9 +9,9 @@ sites:
   - name: Central Macatuba - Host Dashboard
     url: https://dash.host.centralmacatuba.qzz.io
     slug: dash
-  - name: Central Macatuba - Host API
-    url: https://api.host.centralmacatuba.qzz.io
-    slug: api
+#  - name: Central Macatuba - Host API
+#    url: https://api.host.centralmacatuba.qzz.io
+#    slug: api
   - name: Central Macatuba - Host NS1
     url: https://ns1.host.centralmacatuba.qzz.io
     slug: ns1
