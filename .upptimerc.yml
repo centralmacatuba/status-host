@@ -12,15 +12,24 @@ sites:
 #  - name: Central Macatuba - Host API
 #    url: https://api.host.centralmacatuba.qzz.io
 #    slug: api
-  - name: FTPUpload - NS1
-    url: https://ns1.byet.org
-    slug: ns1
-  - name: FTPUpload - NS2
-    url: https://ns2.byet.org
-    slug: ns2
   - name: FTPUpload
     url: https://ftpupload.net
     slug: ftpupload
+  - name: FTPUpload - FTP
+    check: "tcp-ping"
+    url: ftpupload.net
+    port: 21
+    slug: ftpupload-ftp
+  - name: FTPUpload - NS1
+    check: "tcp-ping"
+    url: ns1.byet.org
+    port: 53
+    slug: ftpupload-ns1
+  - name: FTPUpload - NS2
+    check: "tcp-ping"
+    url: ns2.byet.org
+    port: 53
+    slug: ftpupload-ns2
 
 assignees:
   - centralmacatuba
