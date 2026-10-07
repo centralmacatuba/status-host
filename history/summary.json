@@ -83,16 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ftpupload.net.ico",
     "slug": "ftpupload",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "50.75%",
+    "uptimeDay": "50.75%",
+    "uptimeWeek": "50.75%",
+    "uptimeMonth": "50.75%",
+    "uptimeYear": "50.75%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-07": 0
+    }
   }
 ]
