@@ -18,6 +18,9 @@ sites:
   - name: Central Macatuba - Host NS2
     url: https://ns2.host.centralmacatuba.qzz.io
     slug: ns2
+  - name: Central Macatuba - FTP
+    url: ftp://ftpupload.net
+    slug: ftpupload
 
 assignees:
   - centralmacatuba
