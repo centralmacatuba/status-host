@@ -36,43 +36,63 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Central Macatuba - Host NS1",
-    "url": "https://ns1.host.centralmacatuba.qzz.io",
-    "icon": "https://icons.duckduckgo.com/ip3/ns1.host.centralmacatuba.qzz.io.ico",
+    "name": "FTPUpload - NS1",
+    "url": "https://ns1.byet.org",
+    "icon": "https://icons.duckduckgo.com/ip3/ns1.byet.org.ico",
     "slug": "ns1",
     "status": "down",
-    "uptime": "1.14%",
-    "uptimeDay": "1.14%",
-    "uptimeWeek": "1.14%",
-    "uptimeMonth": "1.14%",
-    "uptimeYear": "1.14%",
+    "uptime": "0.25%",
+    "uptimeDay": "0.25%",
+    "uptimeWeek": "0.25%",
+    "uptimeMonth": "0.25%",
+    "uptimeYear": "0.25%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-06": 17
+      "2026-10-07": 25,
+      "2026-10-06": 55
     }
   },
   {
-    "name": "Central Macatuba - Host NS2",
-    "url": "https://ns2.host.centralmacatuba.qzz.io",
-    "icon": "https://icons.duckduckgo.com/ip3/ns2.host.centralmacatuba.qzz.io.ico",
+    "name": "FTPUpload - NS2",
+    "url": "https://ns2.byet.org",
+    "icon": "https://icons.duckduckgo.com/ip3/ns2.byet.org.ico",
     "slug": "ns2",
     "status": "down",
-    "uptime": "1.18%",
-    "uptimeDay": "1.18%",
-    "uptimeWeek": "1.18%",
-    "uptimeMonth": "1.18%",
-    "uptimeYear": "1.18%",
+    "uptime": "0.25%",
+    "uptimeDay": "0.25%",
+    "uptimeWeek": "0.25%",
+    "uptimeMonth": "0.25%",
+    "uptimeYear": "0.25%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-06": 17
+      "2026-10-07": 25,
+      "2026-10-06": 55
     }
+  },
+  {
+    "name": "FTPUpload",
+    "url": "https://ftpupload.net",
+    "icon": "https://icons.duckduckgo.com/ip3/ftpupload.net.ico",
+    "slug": "ftpupload",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
