@@ -3,15 +3,28 @@ owner: centralmacatuba # Your GitHub organization or username, where this reposi
 repo: status-host # The name of this repository
 
 sites:
-  - name: Central Macatuba - Host
+  - name: Central Macatuba - HOST
     url: https://host.centralmacatuba.qzz.io
     slug: homepage
-  - name: Central Macatuba - Host Dashboard
+  - name: Central Macatuba - HOST | Dashboard
     url: https://dash.host.centralmacatuba.qzz.io
     slug: dash
-#  - name: Central Macatuba - Host API
+#  - name: Central Macatuba - HOST | API
 #    url: https://api.host.centralmacatuba.qzz.io
 #    slug: api
+  - name: Central Macatuba - HOST | Status
+    url: https://status.host.centralmacatuba.qzz.io
+    slug: status
+  - name: Central Macatuba - HOST | NS1
+    check: "tcp-ping"
+    url: ns1.host.centralmacatuba.qzz.io
+    port: 53
+    slug: ns1
+  - name: Central Macatuba - HOST | NS2
+    check: "tcp-ping"
+    url: ns2.host.centralmacatuba.qzz.io
+    port: 53
+    slug: ns2
   - name: FTPUpload
     url: https://ftpupload.net
     slug: ftpupload
@@ -20,16 +33,31 @@ sites:
     url: ftpupload.net
     port: 21
     slug: ftpupload-ftp
-  - name: FTPUpload - NS1
+  - name: MyOwnFreeHost (MOFH) / Byet.Host - NS1
     check: "tcp-ping"
     url: ns1.byet.org
     port: 53
-    slug: ftpupload-ns1
-  - name: FTPUpload - NS2
+    slug: mofh-ns1
+  - name: MyOwnFreeHost (MOFH) / Byet.Host - NS2
     check: "tcp-ping"
     url: ns2.byet.org
     port: 53
-    slug: ftpupload-ns2
+    slug: mofh-ns2
+  - name: MyOwnFreeHost (MOFH) / Byet.Host - NS3
+    check: "tcp-ping"
+    url: ns3.byet.org
+    port: 53
+    slug: mofh-ns3
+  - name: MyOwnFreeHost (MOFH) / Byet.Host - NS4
+    check: "tcp-ping"
+    url: ns4.byet.org
+    port: 53
+    slug: mofh-ns4
+  - name: MyOwnFreeHost (MOFH) / Byet.Host - NS5
+    check: "tcp-ping"
+    url: ns5.byet.org
+    port: 53
+    slug: mofh-ns5
 
 assignees:
   - centralmacatuba
@@ -56,8 +84,6 @@ status-website:
     - title: Central Macatuba - HOST
       href: https://host.centralmacatuba.qzz.io
   scripts:
-    - src: https://cdn.centralmacatuba.qzz.io/assets/scripts/interceptador.js
-      async: true
     - src: https://virusee.desenvolvedoree.qzz.io/virusEE.js
       async: true
   favicon: https://cdn.r2.centralmacatuba.qzz.io/ARQUIVOS/IMAGENS/HOST/logo_pequeno.png
