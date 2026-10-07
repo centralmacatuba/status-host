@@ -12,14 +12,14 @@ sites:
 #  - name: Central Macatuba - Host API
 #    url: https://api.host.centralmacatuba.qzz.io
 #    slug: api
-  - name: Central Macatuba - Host NS1
-    url: https://ns1.host.centralmacatuba.qzz.io
+  - name: FTPUpload - NS1
+    url: https://ns1.byet.org
     slug: ns1
-  - name: Central Macatuba - Host NS2
-    url: https://ns2.host.centralmacatuba.qzz.io
+  - name: FTPUpload - NS2
+    url: https://ns2.byet.org
     slug: ns2
-  - name: Central Macatuba - FTP
-    url: ftp://ftpupload.net
+  - name: FTPUpload
+    url: https://ftpupload.net
     slug: ftpupload
 
 assignees:
