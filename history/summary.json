@@ -41,20 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.host.centralmacatuba.qzz.io.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "75.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "75.98%",
-    "uptimeMonth": "75.98%",
-    "uptimeYear": "75.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-10-07": 1215,
-      "2026-10-06": 55
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Central Macatuba - HOST ! NS1",
@@ -62,20 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ns1",
     "status": "up",
-    "uptime": "75.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "75.98%",
-    "uptimeMonth": "75.98%",
-    "uptimeYear": "75.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-10-07": 1215,
-      "2026-10-06": 55
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Central Macatuba - HOST ! NS2",
@@ -83,27 +77,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ns2",
     "status": "up",
-    "uptime": "75.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "75.98%",
-    "uptimeMonth": "75.98%",
-    "uptimeYear": "75.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-10-07": 1215,
-      "2026-10-06": 55
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "FTPUpload - FTP",
     "url": "ftpupload.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ftpupload-ftp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
