@@ -25,9 +25,9 @@ sites:
     url: ns2.host.centralmacatuba.qzz.io
     port: 53
     slug: ns2
-  - name: FTPUpload
-    url: https://ftpupload.net
-    slug: ftpupload
+#  - name: FTPUpload
+#    url: https://ftpupload.net
+#    slug: ftpupload
   - name: FTPUpload - FTP
     check: "tcp-ping"
     url: ftpupload.net
