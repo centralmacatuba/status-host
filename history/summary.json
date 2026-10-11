@@ -41,17 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.host.centralmacatuba.qzz.io.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "94.63%",
+    "uptimeDay": "79.08%",
+    "uptimeWeek": "94.63%",
+    "uptimeMonth": "94.63%",
+    "uptimeYear": "94.63%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-11": 301
+    }
   },
   {
     "name": "Central Macatuba - HOST ! NS1",
@@ -94,18 +96,20 @@
     "url": "ftpupload.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ftpupload-ftp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "94.64%",
+    "uptimeDay": "79.08%",
+    "uptimeWeek": "94.64%",
+    "uptimeMonth": "94.64%",
+    "uptimeYear": "94.64%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-11": 301
+    }
   },
   {
     "name": "MyOwnFreeHost (MOFH) / Byet.Host - NS1",
