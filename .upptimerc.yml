@@ -6,21 +6,21 @@ sites:
   - name: Central Macatuba - HOST
     url: https://host.centralmacatuba.qzz.io
     slug: homepage
-  - name: Central Macatuba - HOST | Dashboard
+  - name: Central Macatuba - HOST ! Dashboard
     url: https://dash.host.centralmacatuba.qzz.io
     slug: dash
-#  - name: Central Macatuba - HOST | API
+#  - name: Central Macatuba - HOST ! API
 #    url: https://api.host.centralmacatuba.qzz.io
 #    slug: api
-  - name: Central Macatuba - HOST | Status
+  - name: Central Macatuba - HOST ! Status
     url: https://status.host.centralmacatuba.qzz.io
     slug: status
-  - name: Central Macatuba - HOST | NS1
+  - name: Central Macatuba - HOST ! NS1
     check: "tcp-ping"
     url: ns1.host.centralmacatuba.qzz.io
     port: 53
     slug: ns1
-  - name: Central Macatuba - HOST | NS2
+  - name: Central Macatuba - HOST ! NS2
     check: "tcp-ping"
     url: ns2.host.centralmacatuba.qzz.io
     port: 53
