@@ -18,7 +18,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Central Macatuba - HOST | Dashboard",
+    "name": "Central Macatuba - HOST ! Dashboard",
     "url": "https://dash.host.centralmacatuba.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/dash.host.centralmacatuba.qzz.io.ico",
     "slug": "dash",
@@ -36,16 +36,16 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Central Macatuba - HOST | Status",
+    "name": "Central Macatuba - HOST ! Status",
     "url": "https://status.host.centralmacatuba.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/status.host.centralmacatuba.qzz.io.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "73.42%",
+    "uptime": "75.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "73.42%",
-    "uptimeMonth": "73.42%",
-    "uptimeYear": "73.42%",
+    "uptimeWeek": "75.98%",
+    "uptimeMonth": "75.98%",
+    "uptimeYear": "75.98%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -57,16 +57,16 @@
     }
   },
   {
-    "name": "Central Macatuba - HOST | NS1",
+    "name": "Central Macatuba - HOST ! NS1",
     "url": "ns1.host.centralmacatuba.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ns1",
     "status": "up",
-    "uptime": "73.42%",
+    "uptime": "75.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "73.42%",
-    "uptimeMonth": "73.42%",
-    "uptimeYear": "73.42%",
+    "uptimeWeek": "75.98%",
+    "uptimeMonth": "75.98%",
+    "uptimeYear": "75.98%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -78,16 +78,16 @@
     }
   },
   {
-    "name": "Central Macatuba - HOST | NS2",
+    "name": "Central Macatuba - HOST ! NS2",
     "url": "ns2.host.centralmacatuba.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ns2",
     "status": "up",
-    "uptime": "73.42%",
+    "uptime": "75.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "73.42%",
-    "uptimeMonth": "73.42%",
-    "uptimeYear": "73.42%",
+    "uptimeWeek": "75.98%",
+    "uptimeMonth": "75.98%",
+    "uptimeYear": "75.98%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -96,26 +96,6 @@
     "dailyMinutesDown": {
       "2026-10-07": 1215,
       "2026-10-06": 55
-    }
-  },
-  {
-    "name": "FTPUpload",
-    "url": "https://ftpupload.net",
-    "icon": "https://icons.duckduckgo.com/ip3/ftpupload.net.ico",
-    "slug": "ftpupload",
-    "status": "down",
-    "uptime": "80.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "80.06%",
-    "uptimeMonth": "80.06%",
-    "uptimeYear": "80.06%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-10-07": 1190
     }
   },
   {
