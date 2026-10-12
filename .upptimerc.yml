@@ -15,6 +15,9 @@ sites:
   - name: Central Macatuba - HOST ! Status
     url: https://status.host.centralmacatuba.qzz.io
     slug: status
+  - name: Central Macatuba - HOST ! CPanel
+    url: https://cpanel.hosting.centralmacatuba.qzz.io
+    slug: cpanel
   - name: Central Macatuba - HOST ! NS1
     check: "tcp-ping"
     url: ns1.host.centralmacatuba.qzz.io
@@ -25,6 +28,7 @@ sites:
     url: ns2.host.centralmacatuba.qzz.io
     port: 53
     slug: ns2
+    
 #  - name: FTPUpload
 #    url: https://ftpupload.net
 #    slug: ftpupload
@@ -33,6 +37,15 @@ sites:
     url: ftpupload.net
     port: 21
     slug: ftpupload-ftp
+  - name: FTPUpload - Web 
+    url: https://filemanager.ai
+    slug: ftpupload-web
+  - name: Softaculous
+    url: https://sv1.scriptinstall.rocks:2083/cpsess2698793550/frontend/jupiter/softaculous/index.live.php
+    slug: softaculous
+  - name: PhpMyAdmin
+    url: https://php-myadmin.net
+    slug: phpmyadmin
   - name: MyOwnFreeHost (MOFH) / Byet.Host - NS1
     check: "tcp-ping"
     url: ns1.byet.org
