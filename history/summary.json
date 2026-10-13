@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.host.centralmacatuba.qzz.io.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "95.75%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "95.75%",
-    "uptimeMonth": "95.75%",
-    "uptimeYear": "95.75%",
+    "uptime": "87.88%",
+    "uptimeDay": "55.69%",
+    "uptimeWeek": "87.88%",
+    "uptimeMonth": "87.88%",
+    "uptimeYear": "87.88%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -53,7 +53,8 @@
     "timeYear": 0,
     "dailyMinutesDown": {
       "2026-10-11": 301,
-      "2026-10-12": 1
+      "2026-10-13": 322,
+      "2026-10-12": 316
     }
   },
   {
@@ -62,18 +63,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cpanel.hosting.centralmacatuba.qzz.io.ico",
     "slug": "cpanel",
     "status": "down",
-    "uptime": "19.94%",
-    "uptimeDay": "19.94%",
-    "uptimeWeek": "19.94%",
-    "uptimeMonth": "19.94%",
-    "uptimeYear": "19.94%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-12": 1
+      "2026-10-13": 322,
+      "2026-10-12": 316
     }
   },
   {
@@ -118,11 +120,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ftpupload-ftp",
     "status": "up",
-    "uptime": "95.77%",
+    "uptime": "96.12%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.77%",
-    "uptimeMonth": "95.77%",
-    "uptimeYear": "95.77%",
+    "uptimeWeek": "96.12%",
+    "uptimeMonth": "96.12%",
+    "uptimeYear": "96.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -138,18 +140,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/filemanager.ai.ico",
     "slug": "ftpupload-web",
     "status": "down",
-    "uptime": "23.80%",
-    "uptimeDay": "23.80%",
-    "uptimeWeek": "23.80%",
-    "uptimeMonth": "23.80%",
-    "uptimeYear": "23.80%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-12": 1
+      "2026-10-13": 322,
+      "2026-10-12": 316
     }
   },
   {
@@ -176,18 +179,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/php-myadmin.net.ico",
     "slug": "phpmyadmin",
     "status": "down",
-    "uptime": "41.88%",
-    "uptimeDay": "41.88%",
-    "uptimeWeek": "41.88%",
-    "uptimeMonth": "41.88%",
-    "uptimeYear": "41.88%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-12": 0
+      "2026-10-13": 322,
+      "2026-10-12": 316
     }
   },
   {
