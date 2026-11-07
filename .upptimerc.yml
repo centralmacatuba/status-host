@@ -38,7 +38,7 @@ sites:
     port: 21
     slug: ftpupload-ftp
   - name: FTPUpload - Web 
-    url: $FTP_UPLOAD_URL
+    url: $FILEMANAGER_URL
     slug: ftpupload-web
   - name: Softaculous
     url: https://sv1.scriptinstall.rocks:2083/cpsess2698793550/frontend/jupiter/softaculous/index.live.php
@@ -73,7 +73,7 @@ sites:
     slug: mofh-ns5
 
 secrets:
-  - FTP_UPLOAD_URL
+  - FILEMANAGER_URL
   - PHP_MYADMIN_URL
 
 assignees:
