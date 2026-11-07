@@ -54,4 +54,4 @@ jobs:
         env:
           GH_PAT: ${{ steps.app_token.outputs.token || secrets.GH_PAT || github.token }}
           # Configure the secret allowlist in .upptimerc.yml; do not edit this workflow directly.
-          SECRETS_CONTEXT: '{"FTP_UPLOAD_URL":${{ toJson(secrets.FTP_UPLOAD_URL) }},"PHP_MYADMIN_URL":${{ toJson(secrets.PHP_MYADMIN_URL) }}}'
+          SECRETS_CONTEXT: '{"FILEMANAGER_URL":${{ toJson(secrets.FILEMANAGER_URL) }},"PHP_MYADMIN_URL":${{ toJson(secrets.PHP_MYADMIN_URL) }}}'
