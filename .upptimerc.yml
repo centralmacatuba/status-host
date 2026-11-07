@@ -38,7 +38,7 @@ sites:
     port: 21
     slug: ftpupload-ftp
   - name: FTPUpload - Web 
-    url: https://filemanager.ai
+    url: $FTP_UPLOAD_URL
     slug: ftpupload-web
   - name: Softaculous
     url: https://sv1.scriptinstall.rocks:2083/cpsess2698793550/frontend/jupiter/softaculous/index.live.php
@@ -71,6 +71,10 @@ sites:
     url: ns5.byet.org
     port: 53
     slug: mofh-ns5
+
+secrets:
+  - FTP_UPLOAD_URL
+  - PHP_MYADMIN_URL
 
 assignees:
   - centralmacatuba
